@@ -1,0 +1,16 @@
+event_type,category,description
+FIRST_SUCCESS,Transformation,Core business achieved dominant market position
+NEW_BUSINESS,Transformation,Launch of a new business initiative
+SECOND_PILLAR,Transformation,New business became a meaningful earnings pillar
+THIRD_PILLAR,Transformation,Third business pillar emerged
+MANAGEMENT,Organization,CEO appointment or major management change
+ORGANIZATION,Organization,Major organizational restructuring
+ACQUISITION,M&A,Acquisition of another company or business
+DIVESTITURE,M&A,Sale or spin-off of a business
+PRODUCT_LAUNCH,Product,Launch of a major product or service
+TECHNOLOGY,Technology,Major technological breakthrough
+CAPEX,Investment,Large capital investment
+PARTNERSHIP,Investment,Strategic alliance or partnership
+REGULATION,External,Regulatory or legal event affecting the company
+CRISIS,External,Major crisis or disruption
+OTHER,Other,Other significant event

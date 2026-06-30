@@ -1,0 +1,7 @@
+event_id,company,event_date,event_year,event_type,title,description,source_id,confidence,notes
+MSFT_1990_001,Microsoft,1990-05-22,1990,FIRST_SUCCESS,Windows 3.0 launch,Windows 3.0 launched and became the foundation of Microsoft's PC operating system dominance,SRC_MSFT_AR_1990_001,High,
+MSFT_2008_001,Microsoft,2008-10-27,2008,NEW_BUSINESS,Azure announced,Microsoft announced Windows Azure as its cloud computing platform,SRC_MSFT_AR_2009_003,High,
+MSFT_2010_001,Microsoft,2010-01-01,2010,CAPEX,Cloud datacenter expansion,Microsoft significantly accelerated investment in global cloud datacenter infrastructure,SRC_MSFT_AR_2010_005,Medium,Investment amount estimated from annual report disclosures
+MSFT_2014_001,Microsoft,2014-02-04,2014,MANAGEMENT,Satya Nadella became CEO,Satya Nadella appointed Chief Executive Officer,SRC_MSFT_AR_2014_001,High,
+MSFT_2018_001,Microsoft,2018-10-26,2018,ACQUISITION,GitHub acquisition completed,Microsoft completed the acquisition of GitHub,SRC_MSFT_AR_2018_002,High,
+MSFT_2020_001,Microsoft,2020-06-30,2020,SECOND_PILLAR,Intelligent Cloud exceeded 30 percent of revenue,Cloud business became a major earnings pillar,SRC_MSFT_SEG_2020_001,Medium,Segment composition estimated from disclosed figures
